@@ -5,7 +5,7 @@ body {font-family: "Oswald" , sans-serif; font-size: 14px;}
 
 #main {width: 900px; margin: 10px auto;}
 /* Use the 'Bungee Inline' font at 46px and lighter weight for the restaurant name. */
-h1 { font-family: 'Bungee', sans-serif; font-size: 46px;}    }
+h1 { font-family: 'Bungee Inline', sans-serif; font-size: 46px; font-weight: lighter;}
 
 #menu {columns: 420px 2; column-gap: 60px;}
 section {margin-bottom: 20px; padding: 10px;}
